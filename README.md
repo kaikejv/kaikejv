@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaikejv
-- 👀 I’m interested in devoping
+- 👀 I’m interested  em programar
 - 🌱 I’m currently learning make frinds
 - 💞️ I’m looking to collaborate on java script
 - 📫 How to reach me intagram @kaikejv
